@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: tssc-quay-quay-tssc-quay.apps.cluster-bnl5f.bnl5f.sandbox1132.opentlc.com/tssc/dotnet-basic-pprqhwws:886a2ce72c90c5af3164f1ccd489f3f364ba7de5@sha256:8490575821fa0ce76c9f9df24f46ff416f7cfe13b8b4a65a897e8f7375b312ed
+        - image: tssc-quay-quay-tssc-quay.apps.cluster-bnl5f.bnl5f.sandbox1132.opentlc.com/tssc/dotnet-basic-pprqhwws:7b264255bf1a10cdff8b623c03b19fa3b47577a2@sha256:6807606df28c289185089e6f267c6424541feed5e6e2eea07ac7886bd5627fd2
           name: container-image
